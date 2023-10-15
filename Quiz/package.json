@@ -1,0 +1,23 @@
+{
+  "name": "@afnansiddiqui__/quiz",
+  "version": "1.0.0",
+  "description": "Its a code for quiz system",
+  "main": "index.js",
+  "type": "module",
+  "bin":"app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3"
+  }
+}
